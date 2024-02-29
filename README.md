@@ -14,6 +14,7 @@ A small package with bpe-tokenization utilities for LLMs inspired by Andrej Karp
 
 
 ## Todo
-- Rewrite everything in C++ to make it faster
+- Rewrite everything in C++ to make it faster (maybe next week)
+- Add other utilities (like .vocab file)
 
 [0]: https://github.com/karpathy/minbpe
